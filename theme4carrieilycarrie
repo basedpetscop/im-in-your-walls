@@ -34,12 +34,12 @@
   --chatinputtransparency: 0;
   --memberlisttransparency: 0.6;
   --font: 0;
-  --textbrightest: 255,255,255;
-  --textbrighter: 222,222,222;
-  --textbright: 200,200,200;
-  --textdark: 160,160,160;
-  --textdarker: 125,125,125;
-  --textdarkest: 90,90,90;
+  --textbrightest: 244,57,140;
+  --textbrighter: 244,57,140;
+  --textbright: 244,57,140;
+  --textdark: 244,57,140;
+  --textdarker: 244,57,140;
+  --textdarkest: 244,57,140;
   --settingsicons: 1;
   --backdropsize: var(--background-size);
   --backdropblur: 0px;
